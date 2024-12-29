@@ -1,5 +1,6 @@
 # Pizza-Sales-Report-Dashboard
-# Dashboard Link - https://app.powerbi.com/links/z3jf4yZbjK?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=16519565-9261-49be-b22b-9654582e7865
+### Dashboard Link - https://app.powerbi.com/links/z3jf4yZbjK?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=16519565-9261-49be-b22b-9654582e7865
+## Problem Statement
 
 This report analyzes pizza sales data to help the company improve operations, enhance customer satisfaction, and optimize sales performance. The report was created in Power BI Desktop and subsequently published to Power BI Service. Key insights, metrics, and visualizations were derived to assist the company in identifying areas for improvement and making data-driven decisions.
 
